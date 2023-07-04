@@ -7,6 +7,7 @@
 - [Esforço (E)](#esforço-e)
 - [Tempo de Desenvolvimento Ótimo](#tempo-de-desenvolvimento-ótimo)
 - [Tamanho da Equipe](#tamanho-da-equipe)
+- [Cálculo do Custo Total](#tamanho-da-equipe)
 
 
 ### Pontos de Função 📊
@@ -111,5 +112,36 @@ Tamanho da equipe = 700 / (5,1 x 22 x 6)
 Tamanho da equipe ≈ 700 / 673,2
 Tamanho da equipe ≈ 1,04
 ```
+
+# Custo total de desenvolvimento de software 💻💰
+
+## Sumário
+- [Introdução](#introdução)
+- [Cálculo do Custo Total](#cálculo-do-custo-total)
+- [Conclusão](#conclusão)
+
+## Introdução
+Neste documento, vamos calcular o Custo Total de Desenvolvimento de Software, considerando os seguintes valores:
+
+- Valor da Hora de Trabalho: R$ 82
+- Horas Contratadas: 8
+- Dias de Trabalho por Mês: 22
+- TD (Tempo de Desenvolvimento): 5,1 meses
+- TE (Equipe de Desenvolvimento): 1 pessoa
+
+## Cálculo do Custo Total
+Podemos usar a seguinte fórmula:
+
+Custo Total = Valor da Hora de Trabalho x Horas Contratadas x Dias de Trabalho x TD x TE
+Substituindo os valores na fórmula:
+Custo Total = R$ 82 x 8 x 22 x 5,1 x 1 = R$ 72.537,6
+
+Portanto, o Custo Total de Desenvolvimento de Software para esses valores seria de R$72.537,6. É importante ressaltar que esse cálculo considera apenas o custo direto do desenvolvimento de software e não inclui outros custos indiretos relacionados ao projeto, como infraestrutura, licenças de software, treinamento, entre outros.
+
+## Conclusão
+O Custo Total de Desenvolvimento de Software é um fator importante a ser considerado ao planejar um projeto de desenvolvimento. Ao levar em conta os valores fornecidos, podemos estimar que o custo total seria de R$72.537,6. No entanto, é essencial lembrar que esse cálculo representa apenas o custo direto do desenvolvimento e que outros custos indiretos também devem ser considerados.
+
+Espero que este documento tenha sido útil na compreensão e cálculo do custo total de desenvolvimento de software. 💡💻💰
+
 
 Portanto, considerando os valores fornecidos, seria necessário uma equipe de aproximadamente 1 pessoa para realizar o projeto em 5,1 meses.
