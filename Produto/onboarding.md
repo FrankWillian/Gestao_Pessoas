@@ -9,7 +9,7 @@ A Escola PM3 é uma instituição renomada na área de formação e treinamento 
 ## Semana 1: Introdução e Ambientação 🚀
 
 **Boas-vindas e Visão Geral**
-- Boas-vindas calorosas por parte do gerente de produto ou líder da equipe.
+- Boas-vindas por parte do gerente de produto ou líder da equipe.
 - Apresentação da empresa, incluindo cultura, valores e missão.
 - Introdução à equipe de produto e oportunidade de conhecer os colegas de equipe.
 
