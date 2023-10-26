@@ -26,11 +26,9 @@ A Lei de Little, nomeada em homenagem ao matemático John D. C. Little, é um pr
 A fórmula L = λW é a representação matemática da Lei de Little. Ela afirma que o número médio de entidades no sistema (L) é igual à taxa média de chegada de entidades (λ) multiplicada pelo tempo médio que uma entidade passa no sistema (W). Essa relação é especialmente útil em sistemas de filas, como servidores de aplicação, para entender e dimensionar o desempenho do sistema.
 
 ## Autor da Lei de Little
-
 A Lei de Little foi formulada por John D. C. Little, um matemático norte-americano conhecido por suas contribuições para a pesquisa operacional e a teoria das filas. Sua descoberta desempenhou um papel fundamental na compreensão e otimização de sistemas de filas em diversas áreas, incluindo o desenvolvimento de software.
 
 ## Componentes da Lei de Little
-
 - **L** 📊: Representa o número médio de entidades no sistema (por exemplo, tarefas na fila de processamento em um servidor de software).
 
 - **λ** 📈: Indica a taxa média de chegada de entidades ao sistema (por exemplo, a taxa média de chegada de requisições de clientes a um servidor de aplicação).
@@ -38,11 +36,9 @@ A Lei de Little foi formulada por John D. C. Little, um matemático norte-americ
 - **W** ⏳: Representa o tempo médio que uma entidade passa no sistema (por exemplo, o tempo médio que uma requisição de cliente passa no servidor, incluindo o tempo na fila e o tempo de processamento).
 
 ## Explicação
-
 A Lei de Little sugere que o número médio de entidades em um sistema é igual à taxa média de chegada de entidades multiplicada pelo tempo médio que uma entidade passa no sistema. Isso é útil para entender o comportamento de sistemas de filas, como servidores de aplicação, e dimensioná-los adequadamente para garantir um bom desempenho.
 
 ## Exemplo de Cálculo no Desenvolvimento de Software
-
 Suponha um servidor de aplicação em que as requisições dos clientes chegam a uma taxa de 100 requisições por segundo (λ = 100 req/s) e o tempo médio de processamento de uma requisição é de 20 milissegundos (W = 0.02 segundos). Usando a Lei de Little, podemos calcular o número médio de requisições no servidor (L):
 
 L = λW
