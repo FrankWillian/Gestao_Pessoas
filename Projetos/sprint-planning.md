@@ -1,9 +1,10 @@
-# 🛠 Roadmap do projeto - Vi-Blue
+# 🛠 Sprint planning - Vi-Blue
 
 # Dados do projeto
 - **Stakeholder** 🎯: Victor Basso
-- **Esforço** ⏳: 1074 horas
-- **Investimento** 💰: R$ 225,540.00
+- **Esforço** ⏳: 1.120 horas
+- **Valor hora** 💵: R$ 210,00.
+- **Investimento** 💰: R$ 235,200.00 
 
 ## 🏃‍♂️ Sprint 1: #2091
 - **Período** 📆: 04/09/2023 - 20/10/2023
@@ -48,7 +49,25 @@
 6. #2298
 7. #2293
 
-## 🏃‍♂️ Sprint 3: #2390
+## 🏃‍♂️ Sprint 2: #2417
+- **Período** 📆: 23/10/2023 - 07/11/2023
+- **Objetivo** 🎯: Modelagem das principais telas do sistema.
+- **Esforço** ⏳: 45 horas
+    - **Produto** 📦:
+        - 👥 @<Beatriz Melo Vaz>  18 horas - Design de UX 🎨
+
+- **Descrição** 📋: Esta tarefa concentra-se no design da experiência do usuário, com foco específico na apresentação de dados nas telas, melhorias nas navegações e aprimoramento do design de UX com a escolha apropriada de cores. 
+
+
+### 📋 Product Backlog:
+1. #2422
+2. #2423
+3. #2421
+4. #2419
+5. #2420
+6. #2418
+
+## 🏃‍♂️ Sprint 4: #2390
 - **Período** 📆: 06/11/2023 - 13/11/2023
 - **Objetivo** 🎯: Refatoração do software SmartPick
 - **Esforço** ⏳: 60 horas
@@ -62,7 +81,7 @@
 1. #2392
 2. #2391
 
-## 🏃‍♂️ Sprint 4: #2256 & #2094
+## 🏃‍♂️ Sprint 5: #2256 & #2094
 - **Período** 📆: 7/11/2023 - 20/11/2023
 - **Objetivo** 🎯: Serviço de login e iniciar serviço de controle de estoque
 - **Esforço** ⏳: 192 horas
@@ -81,7 +100,7 @@
 4. #2101
 5. #2313
 
-## 🏃‍♂️ Sprint 5: #2104 & #2094
+## 🏃‍♂️ Sprint 6: #2104 & #2094
 - **Período** 📆: 20/11/2023 - 08/12/2023
 - **Objetivo** 🎯: Finalizar comunição com os equipamentos
 - **Esforço** ⏳: 184 horas
@@ -100,7 +119,7 @@
 6. #2128
 7. #2303
 
-## 🏃‍♂️ Sprint 6: #2393
+## 🏃‍♂️ Sprint 7: #2393
 - **Período** 📆: 11/11/2023 - 22/11/2023
 - **Objetivo** 🎯: Homologação do login
 - **Esforço** ⏳: 60 horas
@@ -113,7 +132,7 @@
 2. #2395
 3. #2394
 
-## 🏃‍♂️ Sprint 7: #2094
+## 🏃‍♂️ Sprint 8: #2094
 - **Período** 📆: 08/12/2023 - 22/12/2023
 - **Objetivo** 🎯: Finalizar o serviço de WMS
 - **Esforço** ⏳: 144 horas
@@ -135,7 +154,7 @@
 2.2 #2388
 3. #2318
 
-## 🏃‍♂️ Sprint 8: #2397
+## 🏃‍♂️ Sprint 9: #2397
 - **Período** 📆: 15/01/2024 - 02/02/2024
 - **Objetivo** 🎯: Homologação do WMS
 - **Esforço** ⏳: 90 horas
@@ -155,5 +174,3 @@
 # Roadmap de Entrega de Software 🚀
 
 ![RoadMap.png](/.attachments/RoadMap-392f7f79-e2a4-4889-aecd-9b2593463532.png)
-
-
